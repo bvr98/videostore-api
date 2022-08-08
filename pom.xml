@@ -13,11 +13,11 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>respt-api-mdb</name>
 	<description>Restful API</description>
-	<!--
+
 	<properties>
 		<java.version>16</java.version>
 	</properties>
-	-->
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
