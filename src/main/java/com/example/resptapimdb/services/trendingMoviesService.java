@@ -2,7 +2,6 @@ package com.example.resptapimdb.services;
 
 import com.example.resptapimdb.models.trendingMovies;
 import com.example.resptapimdb.models.trendingMoviesRepository;
-import com.example.resptapimdb.models.trendingMoviesRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.stereotype.Service;
