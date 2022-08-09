@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
-@CrossOrigin(origins = "https://git.heroku.com/digital-vid-str.git")
+@CrossOrigin(origins = "https://digital-vid-str.herokuapp.com/")
 @RestController
 public class AuthController {
 

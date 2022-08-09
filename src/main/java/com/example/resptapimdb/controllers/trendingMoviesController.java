@@ -10,7 +10,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Collections;
-@CrossOrigin(origins = "https://git.heroku.com/digital-vid-str.git")
+@CrossOrigin(origins = "https://digital-vid-str.herokuapp.com/")
 @RestController
 public class trendingMoviesController
 {
